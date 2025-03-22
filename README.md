@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a PhD in Comp
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages:** Python, R, SQL, MATLAB
-- **Competencies:** Supervised/Unsupervised Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM)
+- **Competencies:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLM)
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, ggplot2
-- **Libraries:** Scikit-Learn, Pandas, NumPy, tidyverse, dplyr, Shiny
+- **Libraries:** Scikit-Learn, Pandas, NumPy, tidyverse, dplyr, Shiny, AWS, Docker, XGBoost
 
 ## 📫 Let's Connect
 

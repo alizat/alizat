@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a PhD in Comp
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting data science projects!
 
+## 📈 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alizat&show_icons=true&theme=radical)
 
 <!--
 **alizat/alizat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,8 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-## 📈 GitHub Stats
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 -->

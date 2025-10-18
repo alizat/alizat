@@ -1,17 +1,18 @@
-# Hi there, I'm Ali Ezzat 👋
+# 👋 Hi there, I'm Ali Ezzat
 Welcome to my GitHub profile! I'm a data scientist who is specialized in machine learning and passionate about solving complex problems through data science, with a strong focus on generative AI and building impactful applications using natural language processing (NLP) and large language models (LLMs).
 
 - 🔭 **Current Role:** Chief Data Scientist at [Synapse Analytics](https://synapse-analytics.io/)
 - 🌱 **Education:** PhD in Computer Science & MSc in Bioinformatics from Nanyang Technological University
 
-## 👷 What I've been up to
-- I am mostly working on the "Life with" repos here on my GitHub:
-  - [Life with DL](https://github.com/alizat/Life-with-DL) (general deep learning)
-  - [Life with Graphs](https://github.com/alizat/Life-with-Graphs) (analysis and prediction on graphs)
-  - [Life with LLMs](https://github.com/alizat/Life-with-LLMs) (LLMs, RAG, Agents, etc.)
-  - [Life with NLP](https://github.com/alizat/Life-with-NLP) (NLP tasks such as sentiment analysis, summarization, question answering, etc.)
-  - [Life with Recs](https://github.com/alizat/Life-with-Recs) (recommender systems)
-- I have my own pet projects that I work on from time to time
+## 🍳 What's cooking these days
+I am mostly working on the "Life with" repos here on my GitHub:
+  - [Life with DL](https://github.com/alizat/Life-with-DL)  -->  general deep learning
+  - [Life with Graphs](https://github.com/alizat/Life-with-Graphs)  -->  analysis and prediction on graphs
+  - [Life with LLMs](https://github.com/alizat/Life-with-LLMs)  -->  LLMs, RAG, Agents, etc.
+  - [Life with NLP](https://github.com/alizat/Life-with-NLP)  -->  NLP tasks such as sentiment analysis, summarization, question answering, etc.
+  - [Life with Recs](https://github.com/alizat/Life-with-Recs)  -->  recommender systems
+
+I have my own pet projects that I work on from time to time:
   - [HEROIC Surfer](https://github.com/alizat/heroic_surfer)
     - [HEROIC](https://www.heroic.us/) is a self-development platform that provides lots of content (book summaries, daily wisdom videos, meditations, etc.)
     - I am currently scraping the HEROIC website.

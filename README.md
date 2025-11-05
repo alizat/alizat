@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a data scientist who is specialized in machine
 ## 🍳 What's cooking these days
 I am mostly working on the "Life with" repos here on my GitHub:
   - [Life with DL](https://github.com/alizat/Life-with-DL)  -->  general deep learning
-  - [Life with Graphs](https://github.com/alizat/Life-with-Graphs)  -->  analysis and prediction on graphs
-  - [Life with LLMs](https://github.com/alizat/Life-with-LLMs)  -->  LLMs, RAG, Agents, etc.
   - [Life with NLP](https://github.com/alizat/Life-with-NLP)  -->  NLP tasks such as sentiment analysis, summarization, question answering, etc.
+  - [Life with LLMs](https://github.com/alizat/Life-with-LLMs)  -->  LLMs, RAG, Agents, etc.
   - [Life with Recs](https://github.com/alizat/Life-with-Recs)  -->  recommender systems
+  - [Life with Graphs](https://github.com/alizat/Life-with-Graphs)  -->  analysis and prediction on graphs
 
 I have my own pet projects that I work on from time to time:
   - [HEROIC Surfer](https://github.com/alizat/heroic_surfer)

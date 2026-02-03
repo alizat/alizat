@@ -1,33 +1,23 @@
-# 👋 Hi there, I'm Ali Ezzat
-Welcome to my GitHub profile! I'm a data scientist who is specialized in machine learning and passionate about solving complex problems through data science, with a strong focus on generative AI and building impactful applications using natural language processing (NLP) and large language models (LLMs).
+# Lead/Staff Data Scientist — ML Systems, NLP/LLM, RecSys
 
 - 🔭 **Current Role:** Chief Data Scientist at [Synapse Analytics](https://synapse-analytics.io/)
 - 🌱 **Education:** PhD in Computer Science & MSc in Bioinformatics from Nanyang Technological University
 
-## 🍳 What's cooking these days
+## ✨ Featured Repos
 I am mostly working on the "Life with" repos here on my GitHub:
   - [Life with DL](https://github.com/alizat/Life-with-DL)  -->  general deep learning
-  - [Life with NLP](https://github.com/alizat/Life-with-NLP)  -->  NLP tasks such as sentiment analysis, summarization, question answering, etc.
-  - [Life with LLMs](https://github.com/alizat/Life-with-LLMs)  -->  LLMs, RAG, Agents, etc.
+  - [Life with NLP](https://github.com/alizat/Life-with-NLP)  -->  NLP
+  - [Life with LLMs](https://github.com/alizat/Life-with-LLMs)  -->  LLMs, RAG, Agents
   - [Life with Recs](https://github.com/alizat/Life-with-Recs)  -->  recommender systems
   - [Life with Graphs](https://github.com/alizat/Life-with-Graphs)  -->  analysis and prediction on graphs
 
 I have my own pet projects that I work on from time to time:
   - [HEROIC Surfer](https://github.com/alizat/heroic_surfer)
     - [HEROIC](https://www.heroic.us/) is a self-development platform that provides lots of content (book summaries, daily wisdom videos, meditations, etc.)
-    - I am currently scraping the HEROIC website.
-    - With what I am scraping, I intend to build a LLM-powered Shiny app that lets you explore the HEROIC database.
+    - I scraped the HEROIC website. With what I am scraping, I intend to build a LLM-powered Shiny app that lets you explore the HEROIC database.
   - [BGG Scraper](https://github.com/alizat/bggscraper)
     - [Board Game Geek (BGG)](https://boardgamegeek.com/) is an encyclopedic website that has all kinds of information on all board games ine existence.
     - I developed many functions for scraping different kinds of board game info. Most of these functions made use of the [BGG's XML API](https://boardgamegeek.com/wiki/page/BGG_XML_API2).
-
-## 🛠️ Skills & Technologies
-- **Programming**: Python, R, MATLAB, SQL, Java, C++, JavaScript
-- **Libraries**: Transformers, PyTorch, scikit-learn, pandas, NumPy, Plotly, Matplotlib, seaborn, dplyr, ggplot2, Leaflet, Shiny, Gradio
-- **DevOps/Development Tools**: Amazon Web Services (AWS), MS Azure, Docker, Git, GitHub, HuggingFace, Spark, RStudio, Jupyter, Cursor, VSCode
-- **Machine Learning**: Model Deployment, Supervised Learning, XGBoost, Clustering, Feature Engineering, Feature Selection, Deep Learning, Gradient Descent, Convolutional Networks, Ensemble Learning, Manifold Learning, Cross-Validation, Time Series Forecasting, Recommender Systems, Matrix Factorization, Dimensionality Reduction, Graph Neural Networks
-- **Generative AI**: Large Language Models, Natural Language Processing, LLM fine-tuning, Retrieval-Augmented Generation (RAG), LangChain, Ollama, Open-source LLMs, Chatbots, Multi-modal RAG
-- **Other Competencies**: Statistics, Data Wrangling, Data Visualization, Data Mining, Association Analysis, Web Scraping, Parallel Computing, Algorithms, Software Engineering, Relational Databases, Graph Databases (Neo4j), Shiny App Development, Competitive Programming, Bioinformatics, Drug Discovery, Pharmaceuticals
 
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/aliezzat1985/](https://www.linkedin.com/in/aliezzat1985/)

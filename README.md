@@ -4,14 +4,25 @@
 - 🌱 **Education:** PhD in Computer Science & MSc in Bioinformatics from Nanyang Technological University
 
 ## ✨ Featured Repos
-I am mostly working on the "Life with" repos here on my GitHub:
-  - [Life with DL](https://github.com/alizat/Life-with-DL)  -->  general deep learning
-  - [Life with NLP](https://github.com/alizat/Life-with-NLP)  -->  NLP
+These are my HOT repos:
+  - [dbparser](https://github.com/ropensci/dbparser)
+    - Open-source R package for parsing and integrating heterogeneous public drug datasets
+    - 49K+ downloads!
+  - [Chemogenomic DTI Prediction Methods](https://github.com/alizat/Chemogenomic-DTI-Prediction-Methods)
+    - Companion website for a survey paper I wrote on computational methods for predicting drug-target interactions
+    - Contains organized links to other works in the fields and their corresponding source codes as well as essential third-party feature extraction tools
+  - [CAFA 6 Protein Function Prediction](https://github.com/alizat/CAFA-6-Protein-Function-Prediction)
+    - Kaggle competition for predicting protein function prediction from their protein sequences and gene ontology (GO) information
+    - Competition type: Extreme multi-label classification  -->  There are 26K GO terms, and for each protein, predict which terms apply to it
+    - Contains my EDA on the data as well as my feature engineering pipeline for generating features
+
+Nowadays, I am mostly working on the "Life with" repos here on my GitHub:
   - [Life with LLMs](https://github.com/alizat/Life-with-LLMs)  -->  LLMs, RAG, Agents
+  - [Life with NLP](https://github.com/alizat/Life-with-NLP)  -->  NLP
   - [Life with Recs](https://github.com/alizat/Life-with-Recs)  -->  recommender systems
   - [Life with Graphs](https://github.com/alizat/Life-with-Graphs)  -->  analysis and prediction on graphs
 
-I have my own pet projects that I work on from time to time:
+I also have my own pet projects that I work on from time to time:
   - [HEROIC Surfer](https://github.com/alizat/heroic_surfer)
     - [HEROIC](https://www.heroic.us/) is a self-development platform that provides lots of content (book summaries, daily wisdom videos, meditations, etc.)
     - I scraped the HEROIC website. With what I am scraping, I intend to build a LLM-powered Shiny app that lets you explore the HEROIC database.

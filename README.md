@@ -1,13 +1,14 @@
-# Lead/Staff Data Scientist — ML Systems, NLP/LLM, RecSys
+# Principal Data Scientist — ML Systems, NLP/LLM, RecSys
 
-- 🔭 **Current Role:** Chief Data Scientist at [Synapse Analytics](https://synapse-analytics.io/)
+- 🔭 **Current Role:** Head of Data Science Department at [Synapse Analytics](https://synapse-analytics.io/)
 - 🌱 **Education:** PhD in Computer Science & MSc in Bioinformatics from Nanyang Technological University
+- 🚴 **Hobbies:** 📚 Reading, 🎲 Board Games & 🥋 Martial Arts
 
 ## ✨ Featured Repos
 These are my HOT repos:
   - [dbparser](https://github.com/ropensci/dbparser)
     - Open-source R package for parsing and integrating heterogeneous public drug datasets
-    - 49K+ downloads!
+    - 50K+ downloads!
   - [Chemogenomic DTI Prediction Methods](https://github.com/alizat/Chemogenomic-DTI-Prediction-Methods)
     - Companion website for a survey paper I wrote on computational methods for predicting drug-target interactions
     - Contains organized links to other works in the fields and their corresponding source codes as well as essential third-party feature extraction tools

@@ -28,7 +28,7 @@ I also have my own pet projects that I work on from time to time:
     - [HEROIC](https://www.heroic.us/) is a self-development platform that provides lots of content (book summaries, daily wisdom videos, meditations, etc.)
     - I scraped the HEROIC website. With what I am scraping, I intend to build a LLM-powered Shiny app that lets you explore the HEROIC database.
   - [BGG Scraper](https://github.com/alizat/bggscraper)
-    - [Board Game Geek (BGG)](https://boardgamegeek.com/) is an encyclopedic website that has all kinds of information on all board games ine existence.
+    - [Board Game Geek (BGG)](https://boardgamegeek.com/) is an encyclopedic website that has all kinds of information on all board games in existence.
     - I developed many functions for scraping different kinds of board game info. Most of these functions made use of the [BGG's XML API](https://boardgamegeek.com/wiki/page/BGG_XML_API2).
 
 ## 📫 Let's Connect

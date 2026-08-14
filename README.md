@@ -1,7 +1,8 @@
 # Ali Ezzat, PhD
 
 **Principal Data Scientist — Forecasting, Optimization & Recommender Systems**  
-*Retail & consumer · Clean energy & industrial operations*
+*Retail & consumer · Clean energy & industrial operations*  
+[Resume](https://github.com/alizat/alizat/blob/main/Ali-Ezzat-Resume.pdf) · [Portfolio](https://github.com/alizat/alizat/blob/main/Ali-Ezzat-Project-Portfolio.pdf) · [Certificates](https://github.com/alizat/alizat/blob/main/Ali-Ezzat-Certificates.pdf)
 
 I build machine learning systems that change operational decisions — what to stock, where to put a warehouse, how to run a plant on less energy. Twelve-plus enterprise engagements, most of them ending in something running in production rather than a slide deck.
 
